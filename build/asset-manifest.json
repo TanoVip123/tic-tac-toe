@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CodeProject/static/css/main.4d6974c4.css",
+    "main.js": "/CodeProject/static/js/main.b5943d99.js",
+    "static/js/787.393238a3.chunk.js": "/CodeProject/static/js/787.393238a3.chunk.js",
+    "index.html": "/CodeProject/index.html",
+    "main.4d6974c4.css.map": "/CodeProject/static/css/main.4d6974c4.css.map",
+    "main.b5943d99.js.map": "/CodeProject/static/js/main.b5943d99.js.map",
+    "787.393238a3.chunk.js.map": "/CodeProject/static/js/787.393238a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d6974c4.css",
+    "static/js/main.b5943d99.js"
+  ]
+}
